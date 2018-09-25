@@ -1,0 +1,44 @@
+HOME PAGE:-
+
+01:-- Title :- MiicroLogic (Done)
+02:-  slider aroow center 
+03:-  Main logo with add name MiicroLogic
+04:- Website Done (Done)
+     01:- Website Designing
+     02:- SEO
+     03:- Web Hosting 
+
+05:- Software Development (Done)
+     01:- Sharepoint
+     02:- Asp.net
+     03:- Database
+
+
+06:- Our Success, Our Team, Our Solution read button hide (Done)
+
+07:- Read More link About Us page (Done)
+
+ 
+ ABOUT US:- 
+
+01:- box shaprate left line (Vision Mission core valuse) (Done)
+
+SERVICES:-
+
+01:- Microsoft Solution image change (Done)
+
+02:- Banner and services space equal (Done)
+
+03:- all text image center and all services text equal line (3) (Done)
+
+
+all page red line remove (Done)
+
+
+
+CONTACT US:- 
+
+01: Contact Us (Done)
+
+ 
+ 
